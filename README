@@ -1,0 +1,5 @@
+This is a basic Java implementation of the Sieve of Eratosthenes algorithm to find all prime numbers below a given range, of which the default here is 1000.
+
+When testing, it was sucessful up to 99,999,999.
+
+Help was sourced from the New Mexico Supercomputing Challenge (challenge.nm.org).
